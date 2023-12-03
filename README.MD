@@ -3,6 +3,7 @@
 #### Node Course
 
 [Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+[Youtube video](https://www.youtube.com/watch?v=qwfE7fSVaZM&t=46s)
 
 #### Support
 
